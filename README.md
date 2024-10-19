@@ -1,5 +1,7 @@
 
-![68747470733a2f2f632e74656e6f722e636f6d2f43775a446258374476523841414141642f706978656c2d73616b7572612e676966](https://github.com/user-attachments/assets/b17e3907-9e7c-4e5b-b289-ed0ed6d3fc06)
+<div align="center">
+  ![68747470733a2f2f632e74656e6f722e636f6d2f43775a446258374476523841414141642f706978656c2d73616b7572612e676966](https://github.com/user-attachments/assets/b17e3907-9e7c-4e5b-b289-ed0ed6d3fc06)
+</div>
 
 <!--
 **KVRTeJ/KVRTeJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
